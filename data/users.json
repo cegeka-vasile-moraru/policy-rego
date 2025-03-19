@@ -1,1 +1,12 @@
-
+{
+    "users": [
+        {
+            "id": "UHn1mkFKYmsr10muQBy6w4IgRh2LYD9t@clients",
+            "name": "Danil"
+        },
+        {
+            "id": "2",
+            "name": "Vasile"
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 package policies.rbac
 
-default allow := false
+default allow1 := false
 
-allow if {
+allow1 if {
 	input.user == "admin" # Allow only if the user is "admin"
 }
